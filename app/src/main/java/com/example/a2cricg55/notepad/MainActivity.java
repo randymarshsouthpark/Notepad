@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
+    @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         String path_to_storage = Environment.getExternalStorageDirectory().getAbsolutePath();
         EditText noteEditText = (EditText) findViewById(R.id.theedittext);
