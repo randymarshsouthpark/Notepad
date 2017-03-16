@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="saved">SAVE</string>
+    <string name="loader">LOAD</string>
+</resources>
